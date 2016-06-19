@@ -10,11 +10,11 @@ The author lives in Northwest corner of the US and is currently employed by King
 
 - Lives with two kids and wife who [illustrates childrens book](http://juliekimillustrations.com/)
 - Loves bikes to work during Seattle summer
-- Loves to fly kites and quadcopters. Very interested in quadcopter's use of them in [GIS](https://www.sensefly.com/applications/gis.html)
+- Loves to fly kites and quadcopters. Very interested in quadcopter's use of in [GIS](https://www.sensefly.com/applications/gis.html)
 - Learned so much and met so many good friends from [CUGOS-local open source GIS group](http://cugos.org/)
 
 
-Participates in several meetups around mapping 
+Participates in several local meetups around mapping 
 
 * [Maptime Seattle](http://www.meetup.com/MaptimeSEA/)
 * [OpenStreetMap Seattle](http://www.meetup.com/OpenStreetMap-Seattle/)
