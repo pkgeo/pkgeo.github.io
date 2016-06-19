@@ -1,10 +1,10 @@
 ---
 layout: page
-title: About me
+title: About Me
 subtitle:
 ---
 
-Mapitpk is a blog focusing on open source Geographic Information System(GIS) technology and development. Purpose is to document notes and summarizes various personal projects for future me. The author lives in Northwast corner of the US and is currently employed by King County Wastewater Treatment Division as GIS specialist. The content presented herein represents the opionion of the author and do not reflect those of his employer.
+PkGeo is a blog focusing on open source Geographic Information System(GIS) technology and using them for projects. Purpose is to document notes and summarizes various personal projects for future me. The author lives in Northwast corner of the US and is currently employed by King County Wastewater Treatment Division as GIS specialist. The content presented herein represents the opionion of the author and do not reflect those of his employer.
 
 - Live with two kids and wife who [illustrates childrens book](http://juliekimillustrations.com/)
 - I love biking to work during summer and snowboarding in winter
